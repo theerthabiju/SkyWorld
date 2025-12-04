@@ -93,7 +93,7 @@ textarea {
     display: block;
     width: 100%;
     line-height: 1.5em;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 14px;
     font-weight: 400;
     color: #676977;
@@ -143,7 +143,7 @@ input[type="checkbox"] {
 }
 input[type="submit"] {
     font-weight: 400;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
     background: #0366BE;
     color: #fff;
@@ -314,7 +314,7 @@ blockquote cite:before {
     font-weight: 600;
 }
 .count {
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 .valign {
     display: -webkit-box;
@@ -1560,7 +1560,7 @@ hr {
 }
 .dynamic-video-wrapper .wrap-content h4,
 .dynamic-video-wrapper .wrap-content .h4 {
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 16px;
     font-weight: 400;
     color: #fff;
@@ -1738,7 +1738,7 @@ hr {
     color: #fff;
     font-weight: 400;
     display: grid;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     text-transform: none;
     letter-spacing: 0px;
 }
@@ -1779,7 +1779,7 @@ hr {
     color: #fff;
     font-weight: 400;
     display: grid;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     text-transform: none;
     letter-spacing: 0px;
 }
@@ -1885,7 +1885,7 @@ hr {
     font-size: 13px;
     font-weight: 400;
     letter-spacing: 1px;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     padding: 12px 6px;
     line-height: 1.5em;
     text-transform: uppercase;
@@ -1924,7 +1924,7 @@ hr {
     position: relative;
     color: #fff;
     font-size: 13px;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     display: inline;
 }
 .tours1 .item .con h6 i,
@@ -2021,7 +2021,7 @@ hr {
 /* permalink */
 .tours1 .item .con .permalink,
 .destination1 .item .con .permalink {
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 14px;
     color: #fff;
     height: 0;
@@ -2108,7 +2108,7 @@ color: #0366BE;
 .tours2 .caption h3 a {
     color: #0366BE;
     font-size: 13px;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     text-transform: uppercase;
     margin-bottom: 5px;
@@ -2117,13 +2117,13 @@ color: #0366BE;
 .tours2 .caption h3 span {
     font-size: 16px;
     color: #676977;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
 }
 .tours2 .caption h6 {
     display: inline-block;
     color: #676977;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: 10px;
     margin-bottom: 10px;
@@ -2161,7 +2161,7 @@ color: #0366BE;
 }
 .tours2 .caption .info-wrapper .date {
     color: #0f2454;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 16px;
     background: transparent;
     border: 1px solid #0366BE;
@@ -2278,11 +2278,11 @@ hr.border-2 {
 .phone-call .text a {
     font-size: 24px;
     color: #0366BE;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 .phone-call .text a.color-1 {
     color: #fff;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
 }
 
@@ -2347,7 +2347,7 @@ hr.border-2 {
     font-size: 13px;
     font-weight: 400;
     letter-spacing: 1px;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     padding: 12px 6px;
     line-height: 1.5em;
     text-transform: uppercase;
@@ -2372,7 +2372,7 @@ hr.border-2 {
     color: #fff;
     font-size: 16px;
     font-weight: 400;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin-bottom: 0px;
 }
 .tours3 .square-flip .square {
@@ -2422,7 +2422,7 @@ hr.border-2 {
     color: #0366BE;
     font-size: 16px;
     font-weight: 400;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin-bottom: 20px;
 }
 .tours3 .square2 p {
@@ -3129,7 +3129,7 @@ button.mfp-arrow {
     margin-bottom: 80px;
 }
 .testimonials-box .head-box h6 {
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 13px;
     font-weight: 400;
     color: #0366BE;
@@ -3196,7 +3196,7 @@ button.mfp-arrow {
     margin-left: 75px;
 }
 .testimonials .item .info h6 {
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 16px;
     margin-bottom: 0px;
     padding-top: 0px;
@@ -3587,7 +3587,7 @@ border-left: 1px solid #fff;
 }
 .booking-box .head-box h6 {
     font-size: 13px;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     color: #fff;
     text-transform: uppercase;
@@ -3762,7 +3762,7 @@ border-left: 1px solid #fff;
     background: #fff;
 }
 .blog .item .con .category {
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
     font-size: 13px;
     font-weight: 400;
@@ -3852,7 +3852,7 @@ border-left: 1px solid #fff;
     line-height: 1.5em;
 }
 .blog2 .post-img .date i {
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     display: block;
     font-size: 20px;
     font-style: normal;
@@ -3868,7 +3868,7 @@ border-left: 1px solid #fff;
 	font-size: 13px;
     letter-spacing: 2px;
     color: #0366BE;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
 	margin-bottom: 5px;
 }
@@ -3882,7 +3882,7 @@ border-left: 1px solid #fff;
     color: #005299;
 }
 .blog2 .post-cont .date {
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin-top: 0px;
     font-size: 13px;
     text-align: right;
@@ -4011,7 +4011,7 @@ border-left: 1px solid #fff;
     color: #676977;
     font-weight: 400;
     background: #fff;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 16px;
     border-radius: 100%;
     border: 1px solid #f4f5f8;
@@ -4199,7 +4199,7 @@ ol.comment-list li .children li {
 .butn-dark a {
     font-size: 16px;
     font-weight: 400;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     background: #0366BE;
     color: #fff;
     padding: 14px 25px;
@@ -4243,7 +4243,7 @@ ol.comment-list li .children li {
 }
 .butn-light a {
     font-weight: 400;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
     background: transparent;
     color: #fff;
@@ -4308,7 +4308,7 @@ ol.comment-list li .children li {
 .comming h6 {
     color: #fff;
     font-size: 16px;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     text-transform: uppercase;
     margin-bottom: 30px;
@@ -4367,7 +4367,7 @@ ol.comment-list li .children li {
     top: 4px;
     right: 4px;
     cursor: pointer;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 16px;
     font-weight: 400;
     outline: none;
@@ -4390,7 +4390,7 @@ ol.comment-list li .children li {
 .go-back a {
 	color: #fff;
 	display: inline-block;
-    font-family: 'Barlow', sans-serif;
+    font-family: 'Poppins', sans-serif;
 	font-size: 16px;
 }
 .go-back a:hover {
@@ -4430,7 +4430,7 @@ ol.comment-list li .children li {
   padding: 20px 60px 20px 30px;
   height: 70px;
   display: block;
- font-family: 'Barlow', sans-serif;
+ font-family: 'Poppins', sans-serif;
   font-size: 16px;
   background: #f4f5f8;
   color: #676977;
