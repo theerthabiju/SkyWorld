@@ -859,10 +859,10 @@ color: rgba(255,255,255,0.8);
     color: #0366BE;
 }
 .navbar .navbar-nav .active {
-    color: #0366BE !important;
+    color: #ffffff !important;
 }
 .navbar .navbar-nav .active i {
-    color: #0366BE;
+    color: #ffffff;
 }
 .nav-scroll {
     background: #fff;
