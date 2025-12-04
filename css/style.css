@@ -2755,16 +2755,13 @@ hr.border-2 {
     text-align: center;
     width: 100%;
     margin: 0;
-    background: #0366BE;
+    background: #003e8d;;
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
     color: #fff;
     font-weight: 600;
 }
-.right-sidebar .item h2:hover{
-        background: #FF9A00;
 
-}
 .right-sidebar .item-form {
   background: #f4f5f8;
   padding: 45px 25px;
